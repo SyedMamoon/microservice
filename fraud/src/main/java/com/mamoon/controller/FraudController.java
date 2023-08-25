@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @Slf4j
 @RestController
-@RequestMapping("api/v1/customers")
+@RequestMapping("api/v1/fraud-check")
 @AllArgsConstructor
 public class FraudController {
 
